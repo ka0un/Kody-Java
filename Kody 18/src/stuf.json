@@ -1,0 +1,10 @@
+{
+  "name": "Bob",
+  "age": 24,
+  "address": {
+    "ad1": "Long ad",
+    "ad2": "Short ad",
+    "city": "Colombo"
+  },
+  "isCool": true
+}
